@@ -27,3 +27,5 @@ npm-debug.log*
 
 # Project specific
 *.zip
+!data.zip
+data/
