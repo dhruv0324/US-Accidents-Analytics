@@ -2,14 +2,6 @@
 
 A full-stack web application for analyzing and visualizing US traffic accident data with interactive maps, charts, and statistical insights. This project features a **custom-built DataFrame implementation** and CSV parser, providing a lightweight alternative to pandas for data manipulation and analysis.
 
-## Screenshots
-
-![Dashboard View 1](images/Screenshot%202026-01-17%20at%2011.42.27%20AM.png)
-
-![Dashboard View 2](images/Screenshot%202026-01-17%20at%2011.43.09%20AM.png)
-
-![Dashboard View 3](images/Screenshot%202026-01-17%20at%2011.43.27%20AM.png)
-
 ## Custom Functions & Implementation
 
 This project's core strength lies in its **custom-built data processing framework** implemented from scratch:
