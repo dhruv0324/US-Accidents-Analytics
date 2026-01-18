@@ -46,7 +46,7 @@ A lightweight DataFrame implementation that provides pandas-like functionality:
 
 ### Data Setup
 
-Due to file size limitations, the data files are hosted on Google Drive:
+Due to file size limitations, the data files are hosted on Google Drive
 
 1. **Download the data:**
    - Download `data.zip` from [Google Drive Link](https://drive.google.com/file/d/1hsKbnboeKkd8PAH9RF3Cgfui9dBgOPnS/view?usp=sharing) 
